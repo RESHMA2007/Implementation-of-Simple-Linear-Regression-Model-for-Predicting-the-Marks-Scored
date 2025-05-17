@@ -12,7 +12,7 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Load Dataset: Read CSV file containing study hours and marks.
 3. Check Data: Preview data and check for missing values.
 4. Define Variables: Set x=Hours, y=Scores.
-5. Split Data: Train-test spilt(80-20).
+5. Split Data: Train-test spilt(80-20)
 6. Train Model: Fit Linear Regression on training data.
 7. Predict: use model to predict scores on test data.
 8. Evaluate: Calculate Mean Absolute Error(MAE) and R^2 score
