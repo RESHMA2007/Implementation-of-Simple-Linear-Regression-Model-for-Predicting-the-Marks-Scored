@@ -15,7 +15,7 @@ To write a program to predict the marks scored by a student using the simple lin
 5. Split Data: Train-test spilt(80-20).
 6. Train Model: Fit Linear Regression on training data.
 7. Predict: use model to predict scores on test data.
-8. Evaluate: Calculate Mean Absolute Error(MAE) and R^2 score
+8. Evaluate: Calculate Mean Absolute Error(MAE) and R^2 score.
 9. Visualize:Plot actual data and regression line. 
 
 ## Program:
